@@ -1,0 +1,28 @@
+.container {
+    
+    /* display: inline; */
+    /* margin: 200px 600px; */
+    /* border: 2px solid black; */
+    /* margin-top: 0px; */
+    padding: 100px 680px;
+    font-family: 'PT Serif', serif;
+    
+    
+}
+body {
+    background-color: #ABEBC6;
+}
+.add {
+    margin-top: 6px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+h2 {
+
+        padding-top: 20px;
+        text-align: center;
+        color: #186A3B;
+        text-shadow: cadetblue;
+        font-family: 'Libre Baskerville', seri;
+
+}
